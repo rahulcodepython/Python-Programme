@@ -1,0 +1,36 @@
+1 What is the color of the moon?
+1.red
+2.yellow
+3.green
+4.grey
+Ans:- grey
+1 What is the color of the moon?
+1.red
+2.yellow
+3.green
+4.grey
+Ans:- grey
+2 What is the color of the leaf?
+1.red
+2.yellow
+3.green
+4.grey
+Ans:- green
+1 What is the color of the moon?
+1.red
+2.yellow
+3.green
+4.grey
+Ans:- grey
+2 What is the color of the leaf?
+1.red
+2.yellow
+3.green
+4.grey
+Ans:- green
+3 What is the color of the cap?
+1.red
+2.yellow
+3.green
+4.grey
+Ans:- red

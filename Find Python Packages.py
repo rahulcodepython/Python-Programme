@@ -1,12 +1,11 @@
 # ************************** Very Important *******************
 # This programe will perform properly for system python but it fails for virtual environments
 
-
 import importlib.util
 import sys
 
 # For illustrative purposes.
-name = 'PyAutoGUI'
+name = 'Django'
 
 if name in sys.modules:
     print(f"{name!r} already in sys.modules")

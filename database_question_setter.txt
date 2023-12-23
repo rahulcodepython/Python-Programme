@@ -34,3 +34,9 @@ Ans:- green
 3.green
 4.grey
 Ans:- red
+1 2+2 = ?
+1.1
+2.2
+3.3
+4.4
+Ans:- 4
